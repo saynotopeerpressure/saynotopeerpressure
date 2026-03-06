@@ -1,7 +1,7 @@
 <!-- Profile README for saynotopeerpressure | Theme: light | Focus: Algorithms Research -->
 <!-- Personal info placeholders: Unique -->
 
-<h1 align="center">Hi, I'm Unique 👋</h1>
+<h1 align="center">Hi, I'm 氧气厂 👋</h1>
 
 <p align="center">
   <b>Algorithm Research · Problem Solving · Engineering</b>
@@ -27,17 +27,15 @@
 
 ## 🔬 Research-ish Status
 
-- 🎓 Current: **Unique University / Unique Lab**
+- 🎓 Current: **Zhejiang University / DCD Lab**
 - 📚 Reading: **Unique (e.g., optimization / graph learning / sequence models)**
 - 🧪 Working on: **Unique (repro / benchmark / implementation)**
-- 🧠 Interests: **Algorithms · Complexity · Optimization · Systems for ML**
-- 🧩 Open to: **Unique collaboration / paper reproduction / open-source**
-
-> 你也可以把“Reading / Working on”改成具体论文或方向，更像科研主页。
+- 🧠 Interests: **MLLM · VLA · LLM**
+- 🧩 Open to: **collaboration / paper reproduction / open-source**
 
 ---
 
-## 🧰 Skills (Algorithm-first)
+## 🧰 Skills
 
 **Core**
 <br/>
@@ -50,21 +48,13 @@
 **Languages / Tools**
 <br/>
 ![Python](https://img.shields.io/badge/Python-333?style=flat-square&logo=python)
-![C%2B%2B](https://img.shields.io/badge/C%2B%2B-333?style=flat-square&logo=c%2B%2B)
 ![Linux](https://img.shields.io/badge/Linux-333?style=flat-square&logo=linux)
 ![Git](https://img.shields.io/badge/Git-333?style=flat-square&logo=git)
 
 ---
 
-## 📌 Highlights
 
-- ✅ **Unique**: reproduced / implemented **Unique algorithm**
-- ✅ **Unique**: wrote notes about **Unique paper/topic**
-- ✅ **Unique**: built **Unique toolkit** for experiments
-
----
-
-## 📈 GitHub (light cards)
+## 📈 Interesting
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=saynotopeerpressure&show_icons=true&rank_icon=github&hide_border=true&theme=default" alt="stats" />
@@ -85,9 +75,8 @@
 
 ---
 
-## 🐍 Contribution Snake (dynamic)
+## 🐍 Contribution Snake 
 
-> 如果你启用了下方的 Actions 工作流，这里会显示自动生成的蛇图：
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/saynotopeerpressure/saynotopeerpressure/output/github-contribution-grid-snake.svg" alt="snake" />
@@ -97,7 +86,6 @@
 
 ## 🤝 Contact (placeholders)
 
-- Email: `Unique`
-- Homepage: `Unique`
-- Google Scholar / Semantic Scholar: `Unique`
-- Notes: `Unique`
+- Email: `yun7cao@gmail.com`
+- Homepage: `coming soon`
+- Google Scholar: `comming soon`

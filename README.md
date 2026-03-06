@@ -28,8 +28,8 @@
 ## 🔬 Research-ish Status
 
 - 🎓 Current: **Zhejiang University / DCD Lab**
-- 📚 Reading: **Unique (e.g., optimization / graph learning / sequence models)**
-- 🧪 Working on: **Unique (repro / benchmark / implementation)**
+- 📚 Reading: **Spatial Intelligence**
+- 🧪 Working on: **TeleAI| LiAuto | Shanghai AILAB**
 - 🧠 Interests: **MLLM · VLA · LLM**
 - 🧩 Open to: **collaboration / paper reproduction / open-source**
 

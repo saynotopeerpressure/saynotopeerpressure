@@ -2,7 +2,8 @@
 <!-- Profile README for saynotopeerpressure | Theme: light | Focus: Algorithms Research -->
 <!-- Personal info placeholders: Unique -->
 
-<h1 align="center">Hi, I'm 氧气厂 👋</h1>
+<h1 align="center">Hi, I'm 氧气厂   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />
+  &nbsp;&nbsp;</h1>
 
 <p align="center">
   <b>Algorithm Research · Problem Solving · Engineering</b>
@@ -27,6 +28,7 @@
 </p>
 
 ---
+
 
 ## 🔬 Research-ish Status
 

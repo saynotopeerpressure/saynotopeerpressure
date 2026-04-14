@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=760&lines=Yunqi+%7C+Mater+%26+Research;MLLM+%2F+UMM+%2F+VLA;Reading+papers%2C+writing+code%2C+running+experiments" alt="typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=760&lines=Yunqi C+%7C+Master+%26+Research;MLLM+%2F+UMM+%2F+VLA;Reading+papers%2C+writing+code%2C+running+experiments" alt="typing" />
 </p>
 
 

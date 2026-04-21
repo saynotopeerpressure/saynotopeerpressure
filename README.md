@@ -34,7 +34,7 @@
 
 - 🎓 Current: **Zhejiang University / DCD Lab**
 - 📚 Reading: **Spatial VLM**
-- 🧪 Working on: **TeleAI | Li Auto | Shanghai AILAB**
+- 🧪 Working on: **Li Auto | Shanghai AILAB**
 - 🧠 Interests: **MLLM · VLA · LLM**
 - 🧩 Open to: **collaboration / paper reproduction / open-source**
 

@@ -48,16 +48,13 @@
 **Core**
 <p>
   <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f9e0.png" width="22" style="vertical-align: middle;" />
-  <span>Algorithms</span>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f440.png" width="22" style="vertical-align: middle;" />
-  <span>Multimodal Understanding</span>
+  <span>Spatial Understanding</span>
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f52e.png" width="22" style="vertical-align: middle;" />
   <span>Unified Understanding &amp; Generation</span>
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f9ca.png" width="22" style="vertical-align: middle;" />
-  <span>3D Generation</span>
+  <span>AIGC</span>
 </p>
 
 **Languages / Tools**

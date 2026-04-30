@@ -7,7 +7,7 @@
   &nbsp;&nbsp;&nbsp;
 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Activities/Crystal%20Ball.png" width="24" />
-  <b><code> Unified Understanding &amp; Generation </code></b>
+  <b><code> Unified Multimodal Model </code></b>
   &nbsp;&nbsp;&nbsp;
 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Activities/Artist%20Palette.png" width="24" />

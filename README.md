@@ -1,16 +1,19 @@
 <!-- Profile README for saynotopeerpressure | Theme: light | Focus: Algorithms Research -->
 <!-- Personal info placeholders: Unique -->
 
-<p>
-  <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f9e0.png" width="22" style="vertical-align: middle;" />
-  <span>Spatial Understanding</span>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f52e.png" width="22" style="vertical-align: middle;" />
-  <span>Unified Understanding &amp; Generation</span>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f9ca.png" width="22" style="vertical-align: middle;" />
-  <span>AIGC</span>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Robot.png" width="24" />
+  <b><code> Spatial Understanding </code></b>
+  &nbsp;&nbsp;&nbsp;
+
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Activities/Crystal%20Ball.png" width="24" />
+  <b><code> Unified Understanding &amp; Generation </code></b>
+  &nbsp;&nbsp;&nbsp;
+
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Activities/Artist%20Palette.png" width="24" />
+  <b><code> AIGC </code></b>
 </p>
+
 
 ## 🔬 Research-ish Status
 

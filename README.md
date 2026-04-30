@@ -12,7 +12,7 @@
   <b>Algorithm Research · Problem Solving · Engineering</b>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=760&lines=Yunqi+%7C+Master+%26+Research;MLLM+%2F+UMM+%2F+VLA;Reading+papers%2C+writing+code%[...]
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=760&lines=Yunqi+%7C+Master+%26+Research;MLLM+%2F+UMM+%2F+VLA;Reading+papers%2C+writing+c[...]
 </p>
 
 
@@ -20,7 +20,9 @@
   <a href="https://github.com/saynotopeerpressure">
     <img src="https://komarev.com/ghpvc/?username=saynotopeerpressure&style=flat-square&color=2ea44f" alt="views" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=saynotopeerpressure&show_icons=true&theme=default&hide_title=true" alt="stats" />
+  <a href="https://github.com/saynotopeerpressure/saynotopeerpressure/stargazers">
+    <img src="https://img.shields.io/github/stars/saynotopeerpressure/saynotopeerpressure?style=flat-square" alt="stars" />
+  </a>
   <a href="https://github.com/saynotopeerpressure?tab=repositories">
     <img src="https://img.shields.io/badge/Focus-Algorithms%20Research-2ea44f?style=flat-square" alt="focus" />
   </a>

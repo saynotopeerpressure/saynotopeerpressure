@@ -25,10 +25,6 @@
 - 🧠 Interests: **MLLM · VLA · UMM**
 - 🧩 Open to: **collaboration / paper reproduction / open-source**
 
-
-
-## 🧰 Skills
-
 <p>
   <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f9e0.png" width="22" style="vertical-align: middle;" />
   <span>Spatial Understanding</span>
@@ -39,14 +35,6 @@
   <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f9ca.png" width="22" style="vertical-align: middle;" />
   <span>AIGC</span>
 </p>
-
-**Languages / Tools**
-
-![Python](https://img.shields.io/badge/Python-333?style=flat-square&logo=python)
-![Linux](https://img.shields.io/badge/Linux-333?style=flat-square&logo=linux)
-![Git](https://img.shields.io/badge/Git-333?style=flat-square&logo=git)
-
-
 
 
 ## 📈 Interesting

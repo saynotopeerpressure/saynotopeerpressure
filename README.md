@@ -27,7 +27,7 @@
   <a href="https://github.com/saynotopeerpressure?tab=repositories">
     <img src="https://img.shields.io/badge/Focus-Algorithms%20Research-2ea44f?style=flat-square" alt="focus" />
   </a>
-  <img src="https://img.shields.io/badge/Coding%20Since-2022--09--01%20to%20Now-2ea44f?style=flat-square" alt="coding-since" />
+
 
 </p>
 
@@ -64,31 +64,12 @@
 
 ## 📈 Interesting
 
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=saynotopeerpressure&hide_border=true&theme=default" alt="streak" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saynotopeerpressure&theme=minimal&hide_border=true&days=1338" alt="activity-graph" />
-</p>
-
----
-
-## 🐍 Contribution Snake 
-
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/saynotopeerpressure/saynotopeerpressure/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
 ---
 
-## 🧊 3D Contribution Graph
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saynotopeerpressure/saynotopeerpressure/main/profile-3d-contrib/profile-gitblock.svg" alt="3d-contrib" />
-</p>
 
 ## 🤝 Contact
 

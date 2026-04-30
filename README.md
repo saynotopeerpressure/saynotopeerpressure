@@ -22,7 +22,7 @@
 - 🎓 Current: **Zhejiang University / DCD Lab**
 - 📚 Reading: **Spatial VLM**
 - 🧪 Intern on: **Li Auto | Shanghai AILAB**
-- 🧠 Interests: **MLLM · VLA · LLM**
+- 🧠 Interests: **MLLM · VLA · UMM**
 - 🧩 Open to: **collaboration / paper reproduction / open-source**
 
 

@@ -22,7 +22,7 @@
     <img src="https://komarev.com/ghpvc/?username=saynotopeerpressure&style=flat-square&color=2ea44f" alt="views" />
   </a>
   <a href="https://github.com/saynotopeerpressure?tab=followers">
-    <img src="https://img.shields.io/github/followers/saynotopeerpressure?label=Followers&style=flat-square&cacheSeconds=300" alt="followers" />
+    <img src="https://badgen.net/github/followers/saynotopeerpressure?label=Followers" alt="followers" />
   </a>
   <a href="https://github.com/saynotopeerpressure?tab=repositories">
     <img src="https://img.shields.io/badge/Focus-Algorithms%20Research-2ea44f?style=flat-square" alt="focus" />
@@ -48,10 +48,19 @@
 
 **Core**
 <br/>
-![Algorithms](https://img.shields.io/badge/Algorithms-FFD700?style=for-the-badge&logo=algorithm&logoColor=black)
-![Multimodal Understanding](https://img.shields.io/badge/Multimodal%20Understanding-2496ED?style=for-the-badge&logo=google-gemini&logoColor=white)
-![Unified Understanding & Generation](https://img.shields.io/badge/Unified%20Task%20Modeling-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![3D Generation](https://img.shields.io/badge/3D%20Generation-FF4B4B?style=for-the-badge&logo=unity&logoColor=white)
+<div>
+  <img src="https://api.iconify.design/twemoji:brain.svg" width="22" style="vertical-align: middle;" />
+  <span>Algorithms</span>
+  &nbsp;&nbsp;
+  <img src="https://api.iconify.design/twemoji:eyes.svg" width="22" style="vertical-align: middle;" />
+  <span>Multimodal Understanding</span>
+  &nbsp;&nbsp;
+  <img src="https://api.iconify.design/twemoji:crystal-ball.svg" width="22" style="vertical-align: middle;" />
+  <span>Unified Understanding &amp; Generation</span>
+  &nbsp;&nbsp;
+  <img src="https://api.iconify.design/twemoji:cube.svg" width="22" style="vertical-align: middle;" />
+  <span>3D Generation</span>
+</div>
 
 **Languages / Tools**
 <br/>

@@ -19,7 +19,7 @@
 
 ## 🔬 Research-ish Status
 
-- 🎓 Current: **Zhejiang University / DCD Lab**
+- 🎓 Current: **Zhejiang University / DCD Lab/ Master**
 - 📚 Reading: **Spatial VLM**
 - 🧪 Intern on: **Li Auto | Shanghai AILAB**
 - 🧠 Interests: **MLLM · VLA · UMM**
@@ -36,11 +36,8 @@
   <span>AIGC</span>
 </p>
 
-
-## 📈 Interesting
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saynotopeerpressure/saynotopeerpressure/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img width="100%"  src="https://raw.githubusercontent.com/saynotopeerpressure/saynotopeerpressure/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
 <p align="center">

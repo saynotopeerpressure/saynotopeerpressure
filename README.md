@@ -1,30 +1,6 @@
 <!-- Profile README for saynotopeerpressure | Theme: light | Focus: Algorithms Research -->
 <!-- Personal info placeholders: Unique -->
 
-<h1 align="center">
-  Hi, I'm 氧气厂
-  <img
-    src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png"
-    width="35"
-    style="vertical-align: middle; margin-left: 8px;"
-  />
-</h1>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=760&lines=Yunqi+%7C+Master+%26+Research;MLLM+%2F+UMM+%2F+VLA;Reading+papers%2C+writing+code"
-  />
-</p>
-
-
-## 🔬 Research-ish Status
-
-- 🎓 Current: **Zhejiang University / DCD Lab/ Master**
-- 📚 Reading: **Spatial VLM**
-- 🧪 Intern on: **Li Auto | Shanghai AILAB**
-- 🧠 Interests: **MLLM · VLA · UMM**
-- 🧩 Open to: **collaboration / paper reproduction / open-source**
-
 <p>
   <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f9e0.png" width="22" style="vertical-align: middle;" />
   <span>Spatial Understanding</span>
@@ -35,6 +11,16 @@
   <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f9ca.png" width="22" style="vertical-align: middle;" />
   <span>AIGC</span>
 </p>
+
+## 🔬 Research-ish Status
+
+- 🎓 Current: **Zhejiang University / DCD Lab/ Master**
+- 📚 Reading: **Spatial VLM**
+- 🧪 Intern on: **Li Auto | Shanghai AILAB**
+- 🧠 Interests: **MLLM · VLA · UMM**
+- 🧩 Open to: **collaboration / paper reproduction / open-source**
+
+
 
 <p align="center">
   <img width="100%"  src="https://raw.githubusercontent.com/saynotopeerpressure/saynotopeerpressure/output/github-contribution-grid-snake.svg" alt="snake" />

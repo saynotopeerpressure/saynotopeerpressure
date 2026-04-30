@@ -22,7 +22,7 @@
     <img src="https://komarev.com/ghpvc/?username=saynotopeerpressure&style=flat-square&color=2ea44f" alt="views" />
   </a>
   <a href="https://github.com/saynotopeerpressure?tab=followers">
-    <img src="https://img.shields.io/github/followers/saynotopeerpressure?label=Followers&style=flat-square" alt="followers" />
+    <img src="https://img.shields.io/github/followers/saynotopeerpressure?label=Followers&style=flat-square&cacheSeconds=300" alt="followers" />
   </a>
   <a href="https://github.com/saynotopeerpressure?tab=repositories">
     <img src="https://img.shields.io/badge/Focus-Algorithms%20Research-2ea44f?style=flat-square" alt="focus" />

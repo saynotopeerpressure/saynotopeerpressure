@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <img width="100%"  src="https://raw.githubusercontent.com/saynotopeerpressure/saynotopeerpressure/output/github-contribution-grid-snake.gif" alt="snake" />
+  <img width="100%"  src="https://raw.githubusercontent.com/saynotopeerpressure/saynotopeerpressure/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
 <p align="center">

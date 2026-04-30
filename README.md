@@ -16,14 +16,6 @@
 </p>
 
 
-<p align="center">
-  <a href="https://github.com/saynotopeerpressure?tab=repositories">
-    <img src="https://img.shields.io/badge/Focus-Research-2ea44f?style=flat-square" alt="focus" />
-  </a>
-
-
-</p>
-
 ---
 
 

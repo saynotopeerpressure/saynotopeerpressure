@@ -46,11 +46,19 @@
 ## 🧰 Skills
 
 **Core**
-
-![Algorithms](https://img.shields.io/badge/Algorithms-333?style=flat-square)
-![Multimodal%20Understanding](https://img.shields.io/badge/Multimodal%20Understanding-333?style=flat-square)
-![Unified%20Understanding%20%26%20Generation](https://img.shields.io/badge/Unified%20Understanding%20%26%20Generation-333?style=flat-square)
-![3D%20Generation](https://img.shields.io/badge/3D%20Generation-333?style=flat-square)
+<p>
+  <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f9e0.png" width="22" style="vertical-align: middle;" />
+  <span>Algorithms</span>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f440.png" width="22" style="vertical-align: middle;" />
+  <span>Multimodal Understanding</span>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f52e.png" width="22" style="vertical-align: middle;" />
+  <span>Unified Understanding &amp; Generation</span>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f9ca.png" width="22" style="vertical-align: middle;" />
+  <span>3D Generation</span>
+</p>
 
 **Languages / Tools**
 

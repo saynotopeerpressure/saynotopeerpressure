@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/github/followers/saynotopeerpressure?label=Followers&style=flat-square&cacheSeconds=300" alt="followers" />
   </a>
   <a href="https://github.com/saynotopeerpressure?tab=repositories">
-    <img src="https://img.shields.io/badge/Focus-Algorithms%20Research-2ea44f?style=flat-square" alt="focus" />
+    <img src="https://img.shields.io/badge/Focus-Research-2ea44f?style=flat-square" alt="focus" />
   </a>
 
 
@@ -50,16 +50,13 @@
 <br/>
 <div>
   <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f9e0.png" width="22" style="vertical-align: middle;" />
-  <span>Algorithms</span>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f440.png" width="22" style="vertical-align: middle;" />
-  <span>Multimodal Understanding</span>
+  <span>Spatial Understanding</span>
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f52e.png" width="22" style="vertical-align: middle;" />
   <span>Unified Understanding &amp; Generation</span>
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f9ca.png" width="22" style="vertical-align: middle;" />
-  <span>3D Generation</span>
+  <span>AIGC</span>
 </div>
 
 **Languages / Tools**
@@ -67,7 +64,7 @@
 ![Python](https://img.shields.io/badge/Python-333?style=flat-square&logo=python)
 ![Linux](https://img.shields.io/badge/Linux-333?style=flat-square&logo=linux)
 ![Git](https://img.shields.io/badge/Git-333?style=flat-square&logo=git)
-
+</br>
 ---
 
 

@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v5
+        uses: actions/checkout@v4
 
       - name: Generate snake SVG
         uses: Platane/snk@v3
@@ -23,14 +23,9 @@ jobs:
             dist/github-contribution-grid-snake.svg?palette=github-light
             dist/github-contribution-grid-snake.gif?palette=github-light
 
-      - name: Push to output branch
-        run: |
-          set -euo pipefail
-          cd dist
-          git init
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git checkout -b output
-          git add .
-          git commit -m "chore: update contribution snake"
-          git push --force "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" output
+      - name: Publish to output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist

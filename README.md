@@ -17,14 +17,8 @@
 
 
 <p align="center">
-  <a href="https://github.com/saynotopeerpressure">
-    <img src="https://komarev.com/ghpvc/?username=saynotopeerpressure&style=flat-square&color=2ea44f" alt="views" />
-  </a>
-  <a href="https://github.com/saynotopeerpressure/saynotopeerpressure/stargazers">
-    <img src="https://img.shields.io/github/stars/saynotopeerpressure/saynotopeerpressure?style=flat-square" alt="stars" />
-  </a>
   <a href="https://github.com/saynotopeerpressure?tab=repositories">
-    <img src="https://img.shields.io/badge/Focus-Algorithms%20Research-2ea44f?style=flat-square" alt="focus" />
+    <img src="https://img.shields.io/badge/Focus-Research-2ea44f?style=flat-square" alt="focus" />
   </a>
 
 

@@ -17,7 +17,6 @@
 </p>
 
 
-
 ## 🔬 Research-ish Status
 
 - 🎓 Current: **Zhejiang University / DCD Lab**
@@ -29,8 +28,6 @@
 
 
 ## 🧰 Skills
-
-**Core**
 
 <p>
   <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f9e0.png" width="22" style="vertical-align: middle;" />

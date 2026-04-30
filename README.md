@@ -27,6 +27,7 @@
   <a href="https://github.com/saynotopeerpressure?tab=repositories">
     <img src="https://img.shields.io/badge/Focus-Algorithms%20Research-2ea44f?style=flat-square" alt="focus" />
   </a>
+  <img src="https://img.shields.io/badge/Coding%20Since-2026--04--28%20to%20Now-2ea44f?style=flat-square" alt="coding-since" />
 
 </p>
 

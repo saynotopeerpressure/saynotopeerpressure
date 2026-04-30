@@ -31,6 +31,7 @@
 ## 🧰 Skills
 
 **Core**
+
 <p>
   <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f9e0.png" width="22" style="vertical-align: middle;" />
   <span>Spatial Understanding</span>

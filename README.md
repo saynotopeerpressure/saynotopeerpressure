@@ -13,7 +13,7 @@
   <b>Algorithm Research · Problem Solving · Engineering</b>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=760&lines=Yunqi+%7C+Master+%26+Research;MLLM+%2F+UMM+%2F+VLA;Reading+papers%2C+writing+code%2C+running+experiments" alt="typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=760&lines=Yunqi+%7C+Master+%26+Research;MLLM+%2F+UMM+%2F+VLA;Reading+papers%2C+writing+code%2C+building+ideas;Multimodal+Understanding+%7C+Algorithms+%7C+Systems" />
 </p>
 
 
@@ -27,7 +27,7 @@
   <a href="https://github.com/saynotopeerpressure?tab=repositories">
     <img src="https://img.shields.io/badge/Focus-Algorithms%20Research-2ea44f?style=flat-square" alt="focus" />
   </a>
-  <img src="https://img.shields.io/badge/Coding%20Since-2026--04--28%20to%20Now-2ea44f?style=flat-square" alt="coding-since" />
+  <img src="https://img.shields.io/badge/Coding%20Since-2022--09--01%20to%20Now-2ea44f?style=flat-square" alt="coding-since" />
 
 </p>
 
@@ -71,7 +71,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saynotopeerpressure&theme=minimal&hide_border=true" alt="activity-graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saynotopeerpressure&theme=minimal&hide_border=true&days=1338" alt="activity-graph" />
 </p>
 
 ---

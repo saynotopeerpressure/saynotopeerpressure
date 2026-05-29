@@ -26,9 +26,8 @@
 
 
 <p align="center">
-  <img width="100%"  src="https://raw.githubusercontent.com/saynotopeerpressure/saynotopeerpressure/output/github-contribution-grid-snake.svg" alt="snake" />
+  <object type="image/svg+xml" data="https://<username>.github.io/<repo>/github-contribution-grid-snake.svg" width="100%"></object>
 </p>
-
 
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Do%20right%20things%20right&fontSize=45&fontAlign=50&fontAlignY=40&descSize=20&descAlign=50&descAlignY=70&animation=fadeIn">

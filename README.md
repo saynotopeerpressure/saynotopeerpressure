@@ -24,9 +24,8 @@
 - 🧩 Open to: **collaboration / paper reproduction / open-source**
 
 
-
 <p align="center">
-  <object type="image/svg+xml" data="https://<username>.github.io/<repo>/github-contribution-grid-snake.svg" width="100%"></object>
+  <img width="100%" src="https://raw.githubusercontent.com/saynotopeerpressure/saynotopeerpressure/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
 <p align="center">

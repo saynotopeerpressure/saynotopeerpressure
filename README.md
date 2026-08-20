@@ -48,7 +48,7 @@
 - Homepage: `saynotopeerpressure.github.io`
 - Google Scholar: `comming soon`
 
-## 💥Some opinions I preserve
+## 💥 Some opinions I preserve
 - 好事多磨 (每个人的花期不同)
 - 大道至简（简单的事情回归简单）
 - 本质做事 (从本质的角度看事情做事情）

@@ -32,9 +32,9 @@
 
 - 🎓 Current: **Zhejiang University / DCD Lab/ Master**
 - 📚 Reading: **Spatial VLM**
-- 🧪 Intern : **Li Auto | Shanghai AILAB**
-- 🧠 Interests: **MLLM · VLA · UMM**
-- 🧩 Open to: **collaboration / paper reproduction / open-source**
+- 🧪 Intern : **TeleAi | Li Auto | Shanghai AILAB**
+- 🧠 Interests: **Agentic VLM · MLLM · VLA · UMM**
+- 🧩 Open to: **collaboration|Research Intern**
 
 
 ![](https://raw.githubusercontent.com/saynotopeerpressure/saynotopeerpressure/main/assets/github-contribution-grid-snake.svg)
@@ -46,7 +46,7 @@
 
 - Email: `yun7cao@gmail.com`
 - Homepage: `saynotopeerpressure.github.io`
-- Google Scholar: `comming soon`
+- Google Scholar: `Yunqi Cao`
 
 ## 💥 Some opinions I preserve
 - 好事多磨 (每个人的花期不同)

@@ -16,7 +16,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Robot.png" width="24" />
-  <b><code> Spatial Understanding </code></b>
+  <b><code> Spatial Reasoning </code></b>
   &nbsp;&nbsp;&nbsp;
 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Activities/Crystal%20Ball.png" width="24" />

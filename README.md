@@ -34,7 +34,7 @@
 - 📚 Reading: **Spatial VLM**
 - 🧪 Intern : **TeleAi | Li Auto | Shanghai AILAB**
 - 🧠 Interests: **Agentic VLM · MLLM · VLA · UMM**
-- 🧩 Open to: **collaboration|Research Intern**
+- 🧩 Open to: **collaboration | Research Intern**
 
 
 ![](https://raw.githubusercontent.com/saynotopeerpressure/saynotopeerpressure/main/assets/github-contribution-grid-snake.svg)
